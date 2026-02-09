@@ -27,7 +27,7 @@ content:
           - { name: url, label: URL, type: image }
       - { name: body, label: Body, type: rich-text }
       
-  - name: posts_new
+  - name: postsnew_new
     label: Posts
     type: collection
     path: _posts
