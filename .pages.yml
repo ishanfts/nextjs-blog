@@ -28,9 +28,9 @@ content:
       - { name: body, label: Body, type: rich-text }
       
   - name: home
-    label: home
+    label: home 
     type: collection
-    path: _posts
+    path: home
     view:
       fields: [ coverImage, title, date ]
     fields:
