@@ -28,7 +28,7 @@ content:
       - { name: body, label: Body, type: rich-text }
       
   - name: home
-    label: Posts
+    label: home
     type: collection
     path: _posts
     view:
